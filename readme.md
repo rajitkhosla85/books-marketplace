@@ -1,5 +1,5 @@
 # Books Marketplace
-Its books marketplace application where users can buy and sell their old and new books. Its environment-friendly initiative which promotes reusability of books
+Its books marketplace application where users can buy and sell their old and new books. Its an environment-friendly initiative which promotes reusability of books
 
 The application is written in MERN(Mongo, Express, React and Node) as-
 1. Mongo db atlas hosted on AWS
