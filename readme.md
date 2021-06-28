@@ -1,5 +1,5 @@
 # Books Marketplace
-An online user friendly platform to buy and sell old and new books. Any user can login and buy the books Available or sell its own New/Old Books.
+Its books marketplace application where users can buy and sell their old and new books. Its environment-friendly initiative which promotes reusability of books
 
 The application is written in MERN(Mongo, Express, React and Node) as-
 1. Mongo db atlas hosted on AWS
