@@ -22,7 +22,7 @@ User Experience of Buying the books will be improved with Cart/PayPal integratio
 - `npm run dev` to start the backend and frontend servers
 - Open `http://localhost:3000` in the browser
 
-### Logi
+### Login
 - For login user can sign , signup for new account or use their google account.
 
 
