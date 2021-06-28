@@ -16,7 +16,7 @@ const Book = ({ history }) => {
     }
     useEffect(() => {
         dispatch(fetchBooksDetail());
-    })
+    },[dispatch])
 
     const handleOpen = () => {
         setOpen(true);
